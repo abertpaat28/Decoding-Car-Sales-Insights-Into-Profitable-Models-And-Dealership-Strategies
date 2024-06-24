@@ -1,4 +1,4 @@
-# Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies
+# Decoding Car Sales: Insights Into Profitable Models And Dealership Strategies
 
 ![DE855D~1](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies/assets/172190865/c435a51c-c9f1-478d-9bad-0f0341a0df8a)
 ![DECODI~4](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies/assets/172190865/39b76f94-2703-4357-b577-444a88333b81)

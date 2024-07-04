@@ -1,5 +1,4 @@
 # 🚗 Decoding Car Sales: Insights Into Profitable Models And Dealership Strategies
----
 👀
 [Power BI Dashboard](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies/blob/main/DASHBOARD.pdf) -
 [Power BI File](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies/blob/main/Decoding%20Car%20Sales%20-%20Insights%20Into%20Profitable%20Models%20And%20Dealership%20Strategies.pbix) -
